@@ -1,0 +1,264 @@
+# EXTM3U
+
+#EXTINF: -1 tvg-id = "ieanjesus.ec" tvg-name = "EC | IEAN JESUS ​​HD" tvg-logo = "https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOsff16w=s900 no-rj "group-title =" TV | Ecuador ", EC | IEAN JESUS ​​HD
+https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w589951457.m3u8
+
+#EXTINF: -1 tvg-id = "ecuavisa.ec" tvg-name = "EC | Ecuavisa FHD" tvg-logo = "http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title = " TV | Ecuador ", CE | Ecuavisa FHD
+http://172.19.251.2:25461/live/008966/008966/1.ts
+
+#EXTINF: -1 tvg-id = "ecuavisa.ec" tvg-name = "EC | Ecuavisa HD" tvg-logo = "http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title = " TV | Ecuador ", CE | Ecuavisa FHD
+http://172.19.251.2:25461/live/008966/008966/1.m3u8
+
+#EXTINF: -1 tvg-id = "tvc.ec" tvg-name = "EC | TVC HQ" tvg-logo = "http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title = " TV | Ecuador ", CE | Sede de TVC
+http://172.19.251.2:25461/live/008966/008966/2.m3u8
+
+#EXTINF: -1 tvg-id = "tc.ec" tvg-name = "EC | TC HD" tvg-logo = "http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title = " TV | Ecuador ", CE | TC HD
+http://172.19.251.2:25461/live/008966/008966/4.m3u8
+
+#EXTINF: -1 tvg-id = "rts.ec" tvg-name = "EC | RTS HQ" tvg-logo = "http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title = " TV | Ecuador ", CE | RTS HQ
+http://172.19.251.2:25461/live/008966/008966/5.m3u8
+
+#EXTINF: -1 tvg-id = "oromartv.ec" tvg-name = "EC | OROMAR TV HQ" tvg-logo = "http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title = "TV | Ecuador", CE | OROMAR TV HQ
+http://172.19.251.2:25461/live/008966/008966/6.m3u8
+
+#EXTINF: -1 tvg-id = "oromartv.ec" tvg-name = "EC | OROMAR TV HD" tvg-logo = "http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title = "TV | Ecuador", CE | OROMAR TV HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172540
+
+#EXTINF: -1 tvg-id = "gama.ec" tvg-name = "EC | GAMAVISION HQ" tvg-logo = "http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title = " TV | Ecuador ", CE | Sede de GAMAVISION
+http://172.19.251.2:25461/live/008966/008966/7.m3u8
+
+#EXTINF: -1 tvg-id = "teleamazonas sierra.ec" tvg-name = "EC | TELEAMAZONAS SIERRA HD" tvg-logo = "http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title = "TV | Ecuador", CE | TELEAMAZONAS SIERRA HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172528
+
+#EXTINF: -1 tvg-id = "ecuador.ec" tvg-name = "EC | ECUADOR TV HD" tvg-logo = "http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title = "TV | Ecuador", CE | ECUADOR TV HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
+
+#EXTINF: -1 tvg-id = "history.ec" tvg-name = "INT | HISTORY HQ" tvg-logo = "http://l3d.us:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title = " TV | Internacional ", INT | HISTORIA HQ
+http://172.19.251.2:25461/live/008966/008966/10.m3u8
+
+#EXTINF: -1 tvg-id = "history.ec" tvg-name = "INT | HISTORY 2 HQ" tvg-logo = "http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group- title = "TV | Internacional", INT | HISTORIA 2 HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/88918
+
+#EXTINF: -1 tvg-id = "hbo.ec" tvg-name = "INT | HBO HQ" tvg-logo = "https://i.imgur.com/W7tgJmn.jpg" group-title = "TV | Internacional ", INT | Sede de HBO
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4893
+
+#EXTINF: -1 tvg-id = "hbo.ec" tvg-name = "INT | HBO LATINO HQ" tvg-logo = "https://i.imgur.com/W7tgJmn.jpg" group-title = "TV | Internacional ", INT | Sede de HBO LATINO
+http://172.19.251.2:25461/live/008966/008966/11.ts
+
+#EXTINF: -1 tvg-id = "hbo.ec" tvg-name = "INT | HBO 2 HQ" tvg-logo = "http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group- title = "TV | Internacional", INT | HBO 2 HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/1939
+
+#EXTINF: -1 tvg-id = "hbo.ec" tvg-name = "INT | HBO PLUS HQ" tvg-logo = "http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" grupo- title = "TV | Internacional", INT | HBO PLUS HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4896
+
+#EXTINF: -1 tvg-id = "hbo.ec" tvg-name = "INT | HBO XTREME HQ" tvg-logo = "http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group- title = "TV | Internacional", INT | HBO XTREME HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58813
+
+#EXTINF: -1 tvg-id = "tnt.ec" tvg-name = "INT | TNT HQ" tvg-logo = "http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" título de grupo = "TV | Internacional", INT | Sede de TNT
+http://172.19.251.2:25461/live/008966/008966/13.m3u8
+
+#EXTINF: -1 tvg-id = "tnt.ec" tvg-name = "INT | TNT SERIES HQ" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series. png "título-grupo =" TV | Internacional ", INT | HQ DE LA SERIE TNT
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4904
+
+#EXTINF: -1 tvg-id = "cinecanal.ec" tvg-name = "INT | CINECANAL HQ" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png "group-title =" TV | Internacional ", INT | HQ CINECANAL
+http://172.19.251.2:25461/live/008966/008966/14.m3u8
+
+#EXTINF: -1 tvg-id = "animal.ec" tvg-name = "INT | ANIMAL PLANET HQ" tvg-logo = "http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title = "TV | Internacional", INT | HQ PLANETA ANIMAL
+http://172.19.251.2:25461/live/008966/008966/15.m3u8
+
+#EXTINF: -1 tvg-id = "discovery.ec" tvg-name = "INT | DISCOVERY CHANNEL HQ" tvg-logo = "http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title = "TV | Internacional", INT | HQ DEL CANAL DE DESCUBRIMIENTO
+http://172.19.251.2:25461/live/008966/008966/16.m3u8
+
+#EXTINF: -1 tvg-id = "home.ec" tvg-name = "INT | H&H DISCOVERY HQ" tvg-logo = "http://l3d.us:8080/images/5365356a42d407362dc077d92602620e.png" group-title = "TV | Internacional", INT | H&H DISCOVERY HQ
+http://172.19.251.2:25461/live/008966/008966/579.m3u8
+
+#EXTINF: -1 tvg-id = "golden.ec" tvg-name = "INT | GOLDEN EDGE HQ" tvg-logo = "http://l3d.us:8080/images/c6692a79892a9010d2f4a8cb7b9fc7a3.png" group-title = "TV | Internacional", INT | HQ DE GOLDEN EDGE
+http://172.19.251.2:25461/live/008966/008966/580.m3u8
+
+#EXTINF: -1 tvg-id = "golden.ec" tvg-name = "INT | GOLDEN HQ" tvg-logo = "http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" título del grupo = "TV | Internacional", INT | HQ DE ORO
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58789
+
+#EXTINF: -1 tvg-id = "golden.ec" tvg-name = "INT | GOLDEN PLUS HQ" tvg-logo = "http://tv.streamid.ga:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group- title = "TV | Internacional", INT | HQ DE ORO PLUS
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58791
+
+#EXTINF: -1 tvg-id = "golden.ec" tvg-name = "INT | GOLDEN PREMIER HQ" tvg-logo = "https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title = "TV | Internacional", INT | HQ PREMIER DE ORO
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4892
+
+#EXTINF: -1 tvg-id = "warner.ec" tvg-name = "INT | WARNER BROTHER HQ" tvg-logo = "http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title = "TV | Internacional", INT | HQ DE WARNER BROTHER
+http://172.19.251.2:25461/live/008966/008966/582.m3u8
+
+#EXTINF: -1 tvg-id = "universal.ec" tvg-name = "INT | UNIVERSAL TV HQ" tvg-logo = "http://l3d.us:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title = "TV | Internacional", INT | HQ UNIVERSAL DE TV
+http://172.19.251.2:25461/live/008966/008966/583.m3u8
+
+#EXTINF: -1 tvg-id = "sony.ec" tvg-name = "INT | SONY HD" tvg-logo = "http://l3d.us:8080/images/33561003f44d374c719506bef4faeba4.png" group-title = " TV | Internacional ", INT | SONY HD
+http://172.19.251.2:25461/live/008966/008966/584.m3u8
+
+#EXTINF: -1 tvg-id = "studio.ec" tvg-name = "INT | STUDIO UNIVERSAL HQ" tvg-logo = "http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title = "TV | Internacional", INT | ESTUDIO UNIVERSAL HD
+http://172.19.251.2:25461/live/008966/008966/587.m3u8
+
+#EXTINF: -1 tvg-id = "turbo.ec" tvg-name = "INT | DISCOVERY TURBO HQ" tvg-logo = "http://l3d.us:8080/images/8d46e886eb80ca4eef0ea448be2c018d.png" group-title = "TV | Internacional", INT | DISCOVERY TURBO HQ
+http://172.19.251.2:25461/live/008966/008966/588.m3u8
+
+#EXTINF: -1 tvg-id = "star.ec" tvg-name = "INT | INICIAR CANAL HQ" tvg-logo = "http://l3d.us:8080/images/326af23f71de8af1291efd0a4c2b2020.png" group-title = "TV | Internacional", INT | INICIAR CANAL HQ
+http://172.19.251.2:25461/live/008966/008966/589.m3u8
+
+#EXTINF: -1 tvg-id = "telemundo.ec" tvg-name = "INT | TELEMUNDO HQ" tvg-logo = "http://l3d.us:8080/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title = " TV | Internacional ", INT | HQ DE TELEMUNDO
+http://172.19.251.2:25461/live/008966/008966/596.m3u8
+
+#EXTINF: -1 tvg-id = "cnn.ec" tvg-name = "INT | CNN HQ" tvg-logo = "http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title = " TV | Internacional ", INT | Sede de CNN
+http://172.19.251.2:25461/live/008966/008966/1839.m3u8
+
+#EXTINF: -1 tvg-id = "mtv.ec" tvg-name = "INT | MTV HQ" tvg-logo = "http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title = " TV | Internacional ", INT | Sede de MTV
+http://172.19.251.2:25461/live/008966/008966/1840.m3u8
+
+#EXTINF: -1 tvg-id = "las estrellas.ec" tvg-name = "INT | EL CANAL DE LAS ESTRELLAS HQ" tvg-logo = "http://playlistplus.site:8080/images/aa87ddc5b4c24406d26ddad771ef44b0.jpg" group-title = "TV | Internacional", INT | Sede EL CANAL DE LAS ESTRELLAS
+http://172.19.251.2:25461/live/008966/008966/1841.m3u8
+
+#EXTINF: -1 tvg-id = "pasiones.ec" tvg-name = "INT | PASIONES HQ" tvg-logo = "https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4bAhuzzyMemzi /s640/PasionesLogo.png "group-title =" TV | Internacional ", INT | HQ PASIONES
+http://172.19.251.2:25461/live/008966/008966/1842.m3u8
+
+#EXTINF: -1 tvg-id = "space.ec" tvg-name = "INT | SPACE HQ" tvg-logo = "http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title = " TV | Internacional ", INT | HQ ESPACIO
+http://172.19.251.2:25461/live/008966/008966/1843.m3u8
+
+#EXTINF: -1 tvg-id = "amc.ec" tvg-name = "INT | AMC HQ" tvg-logo = "https://www.directv.com/images/logos/channels/dark/large/313 .png "group-title =" TV | Internacional ", INT | Sede de AMC
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4875
+
+#EXTINF: -1 tvg-id = "axn.ec" tvg-name = "INT | AXN HQ" tvg-logo = "http://pluspng.com/img-png/axn-logo-png-axn-hd -png-820.png "group-title =" TV | Internacional ", INT | HQ AXN
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4876
+
+#EXTINF: -1 tvg-id = "fx.ec" tvg-name = "INT | FX HQ" tvg-logo = "https://i.pinimg.com/originals/de/60/88/de60884d4a887e2844ea97234d9b66bb.png "group-title =" TV | Internacional ", INT | FX HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4891
+
+#EXTINF: -1 tvg-id = "cinemax.ec" tvg-name = "INT | CINEMAX HQ" tvg-logo = "https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png "group-title =" TV | Internacional ", INT | CINEMAX HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4879
+
+#EXTINF: -1 tvg-id = "natgeo.ec" tvg-name = "INT | NATGEO HQ" tvg-logo = "http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title = " TV | Internacional ", INT | Sede de NATGEO
+http://172.19.251.2:25461/live/008966/008966/1844.m3u8
+
+#EXTINF: -1 tvg-id = "caracol.ec" tvg-name = "INT | CARACOL HQ" tvg-logo = "http://l3d.us:8080/images/ae586052f7f722d77781ab91318aae33.png" group-title = " TV | Internacional ", INT | Sede de CARACOL
+http://172.19.251.2:25461/live/008966/008966/1845.m3u8
+
+#EXTINF: -1 tvg-id = "tln.ec" tvg-name = "INT | TLNOVELAS HQ" tvg-logo = "http://l3d.us:8080/images/173f6557c6a62af1f4e3715369c89120.png" group-title = " TV | Internacional ", INT | Sede de TLNOVELAS
+http://172.19.251.2:25461/live/008966/008966/1846.m3u8
+
+#EXTINF: -1 tvg-id = "nick.ec" tvg-name = "INT | NICK JR HQ" tvg-logo = "http://visiona4ktv.online:25461/images/913c4858c66af34fc5575fcb46f3fecb.jpg" group-title = "TV | Internacional", INT | NICK JR HQ
+http://172.19.251.2:25461/live/008966/008966/24.m3u8
+
+#EXTINF: -1 tvg-id = "disney.ec" tvg-name = "INT | DISNEY XD HQ" tvg-logo = "http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title = "TV | Internacional", INT | DISNEY XD HQ
+http://172.19.251.2:25461/live/008966/008966/577.m3u8
+
+#EXTINF: -1 tvg-id = "toon.ec" tvg-name = "INT | TOONCAST HQ" tvg-logo = "https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11 .png "group-title =" TV | Internacional ", INT | TOONCAST HQ
+http://172.19.251.2:25461/live/008966/008966/578.m3u8
+
+#EXTINF: -1 tvg-id = "bein.ec" tvg-name = "DEP | BEIN SPORTS HQ" tvg-logo = "http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title = "TV | Deportes", DEP | BEIN SPORTS HQ
+http://172.19.251.2:25461/live/008966/008966/591.ts
+
+#EXTINF: -1 tvg-id = "fox.ec" tvg-name = "DEP | FOX SPORTS HQ" tvg-logo = "http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title = "TV | Deportes", DEP | Sede de FOX SPORTS
+http://172.19.251.2:25461/live/008966/008966/592.m3u8
+
+#EXTINF: -1 tvg-id = "espn.ec" tvg-name = "DEP | ESPN HQ" tvg-logo = "http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title = " TV | Deportes ", DEP | ESPN HQ
+http://172.19.251.2:25461/live/008966/008966/594.m3u8
+
+#EXTINF: -1 tvg-id = "espn.ec" tvg-name = "DEP | ESPN 3 HQ" tvg-logo = "http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title = "TV | Deportes", DEP | ESPN 3 HQ
+http://172.19.251.2:25461/live/008966/008966/595.m3u8
+
+#EXTINF: -1 tvg-id = "goltv.ec" tvg-name = "DEP | GOLTV HQ" tvg-logo = "http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title = " TV | Deportes ", DEP | Sede de GOLTV
+http://172.19.251.2:25461/live/008966/008966/597.m3u8
+
+#EXTINF: -1 tvg-id = "tyc.ec" tvg-name = "DEP | TYC SPORTS HQ" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfV3QateDlP1Kgt_nsqZfV2QThLP3DLP3. VZaPV9ee8uszwD0-YSI4snxqcVhmpQ & usqp = CAU & ec = 45732301 "group-title =" TV | Deportes ", DEP | Sede de TYC SPORTS
+http://172.19.251.2:25461/live/008966/008966/599.m3u8
+
+#EXTINF: -1 tvg-id = "espn.ec" tvg-name = "DEP | ESPN OPCION 1 HQ" tvg-logo = "http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title = "TV | Deportes", DEP | ESPN OPCION 1 HQ
+http://172.19.251.2:25461/live/008966/008966/1345.m3u8
+
+#EXTINF: -1 tvg-id = "tntsport.ec" tvg-name = "DEP | TNT SPORT HQ" tvg-logo = "https://todotvnews.com/wp-content/uploads/2021/01/TNTSports. jpg "group-title =" TV | Deportes ", DEP | Sede de TNT SPORT
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169973
+
+#EXTINF: -1 tvg-id = "tntsport.ec" tvg-name = "DEP | TNT SPORT HD" tvg-logo = "https://todotvnews.com/wp-content/uploads/2021/01/TNTSports. jpg "group-title =" TV | Deportes ", DEP | TNT SPORT HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169982
+
+#EXTINF: -1 tvg-id = "foxsport.ec" tvg-name = "DEP | FOX SPORT 3 HQ" tvg-logo = "http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title = "TV | Deportes", DEP | FOX SPORT 3 HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
+
+#EXTINF: -1 tvg-id = "foxsport.ec" tvg-name = "DEP | FOX SPORT 2 HQ" tvg-logo = "http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title = "TV | Deportes", DEP | FOX SPORT 2 HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
+
+#EXTINF: -1 tvg-id = "ecnf.ec" tvg-name = "DEP | EL CANAL DEL FUTBOL HQ" tvg-logo = "http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group- title = "TV | Deportes", DEP | HQ EL CANAL DEL FUTBOL
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172556
+
+#EXTINF: -1 tvg-id = "ecnf.ec" tvg-name = "DEP | EL CANAL DEL FUTBOL OP1 HQ" tvg-logo = "http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" grupo -title = "TV | Deportes", DEP | HQ EL CANAL DEL FUTBOL OP1
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170163
+
+#EXTINF: -1 tvg-id = "ecnf.ec" tvg-name = "DEP | EL CANAL DEL FUTBOL OP2 HD" tvg-logo = "http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" grupo -title = "TV | Deportes", DEP | EL CANAL DEL FUTBOL OP2 HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
+
+#EXTINF: -1 tvg-id = "directv.ec" tvg-name = "DEP | DIRECTV HD" tvg-logo = "http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" título de grupo = "TV | Deportes", DEP | DIRECTV HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4107
+
+#EXTINF: -1 tvg-id = "" tvg-name = "EVENTOS OP 1" tvg-logo = "https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de -eventos-a.png "group-title =" SOLO EVENTOS ", EVENTOS OP 1
+#EXTINF: -1 tvg-id = "" tvg-name = "EVENTOS OP 2" tvg-logo = "https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de -eventos-a.png "group-title =" SOLO EVENTOS ", EVENTOS OP 2
+https://video.fatf3-1.fna.fbcdn.net/hvideo-rva-prn/_nc_cat-104/_nc_sr_t-4/v/rZdedKv4UUh-ontwQBEow/_nc_ohc-xJMcXdtNEioAX9yPtmQ/live-dash/dash-abr-ibr audio / 276197161207756.mpd? ccb = 2-4 & ms = m_CNP & sc_t = 1 & oh = b31ce37dd32acc54904759bc0d8370e2 & oe = 61AC2E67 & _nc_expid = www_streaming_t16_c
+#EXTINF: -1 tvg-id = "" tvg-name = "EVENTOS OP 3" tvg-logo = "https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de -eventos-a.png "group-title =" SOLO EVENTOS ", EVENTOS OP 3
+#EXTINF: -1 tvg-id = "" tvg-name = "EVENTOS OP 4" tvg-logo = "https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de -eventos-a.png "group-title =" SOLO EVENTOS ", EVENTOS OP 4
+https://video.fatf3-1.fna.fbcdn.net/hvideo-ldc-vll/_nc_cat-110/_nc_sr_t-4/v/r4t6-yaYzN34UcXDIp1LH/_nc_ohc-toXHEu8nJnwAX_IpXgC/live-dasbrh/ibdash-a audio / 1137396960000505.mpd? ccb = 2-4 & ms = m_CTPA & sc_t = 1 & oh = aaf5708bb6dbdc43f1ffb7d97ef7f423 & oe = 61ACF962 & _nc_expid = www_streaming_t16_c
+
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E01" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E01
+http://172.19.251.2:25461/series/008966/008966/1848.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E02" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E02
+http://172.19.251.2:25461/series/008966/008966/1849.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E03" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E03
+http://172.19.251.2:25461/series/008966/008966/1850.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E04" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E04
+http://172.19.251.2:25461/series/008966/008966/1851.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E05" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E05
+http://172.19.251.2:25461/series/008966/008966/1852.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E06" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E06
+http://172.19.251.2:25461/series/008966/008966/1853.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E07" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E07
+http://172.19.251.2:25461/series/008966/008966/1854.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E08" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E08
+http://172.19.251.2:25461/series/008966/008966/1855.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El juego del calamar S01 E09" tvg-logo = "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/ 1200 / public / media / image / 2021/10 / juego-calamar-2489663.jpg? Itok = 5i0oPG7R "group-title =" SERIES | Drama ", El juego del calamar S01 E09
+http://172.19.251.2:25461/series/008966/008966/1856.mkv
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Pinguinos de Magadascar" tvg-logo = "https://e7.pngegg.com/pngimages/331/443/png-clipart-madagascar-operation-penguin -kowalski-skipper-pingüino-animales-escritorio-wallpaper.png "group-title =" 24/7 | 24/7 ", Pinguinos de Magadascar
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6428
+#EXTINF: -1 tvg-id = "" tvg-name = "Jimmy Neutron" tvg-logo = "https://i.pinimg.com/originals/2e/fb/9b/2efb9b0bced064f8a87c84b6786042a8.png" group-title = "24/7 | 24/7", Jimmy Neutron
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6440
+#EXTINF: -1 tvg-id = "" tvg-name = "Bob Esponja" tvg-logo = "https://e7.pngegg.com/pngimages/201/528/png-clipart-spongebob-spongebob.png" group-title = "24/7 | 24/7", Bob Esponja
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6284
+#EXTINF: -1 tvg-id = "" tvg-name = "Futurama" tvg-logo = "https://e7.pngegg.com/pngimages/799/487/png-clipart-futurama-futurama.png" grupo -title = "24/7 | 24/7", Futurama
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6447
+#EXTINF: -1 tvg-id = "" tvg-name = "El Reino Infantil" tvg-logo = "http://tv.streamid.ga:8080/images/c9c9ab070801cce3056d2fa72d9751b5.jpg" group-title = "24 / 7 | 24/7 ", El Reino Infantil
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/72954
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Jumanji 2" tvg-logo = "https://es.web.img2.acsta.net/pictures/17/11/08/14/53/ 3315450.jpg "group-title =" VOD | Peliculas ", Jumanji 2
+http://172.19.251.2:25461/movie/008966/008966/858.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Escooby Doo 2" tvg-logo = "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcvGYgGGh4bAGQ2aC1dgcIO5daJ.jpg" group-title = " VOD | Peliculas ", Scooby Doo 2
+http://172.19.251.2:25461/movie/008966/008966/1174.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Harley Queen" tvg-logo = "https://www.cinemascomics.com/wp-content/uploads/2018/04/margot-robbie-harley- quinn.jpg? mrf-size = m "group-title =" VOD | Peliculas ", Harley Queen
+http://172.19.251.2:25461/movie/008966/008966/648.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El Marine 4" tvg-logo = "https://static.wikia.nocookie.net/doblaje/images/f/f2/ElMarine4.jpg/revision / latest? cb = 20151115014647 & path-prefix = es "group-title =" VOD | Peliculas ", El Marine 4
+http://172.19.251.2:25461/movie/008966/008966/671.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "GI Joe" tvg-logo = "https://es.web.img3.acsta.net/medias/nmedia/18/87/40/63/ 20332045.jpg "group-title =" VOD | Peliculas ", GI Joe
+http://172.19.251.2:25461/movie/008966/008966/676.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "MadMax" tvg-logo = "https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-429261909-large.jpg" group-title = "VOD | Peliculas" ,Mad Max
+http://172.19.251.2:25461/movie/008966/008966/733.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "El Transportador 3" tvg-logo = "https://es.web.img3.acsta.net/medias/nmedia/18/68/31/26 /20388650.jpg "group-title =" VOD | Peliculas ", El Transportador 3
+http://172.19.251.2:25461/movie/008966/008966/813.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Transformers 4" tvg-logo = "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649133.jpg" group-title = "VOD | Peliculas", Transformers 4
+http://172.19.251.2:25461/movie/008966/008966/812.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Terminator 5" tvg-logo = "https://es.web.img3.acsta.net/pictures/15/05/21/13/06/ 100425.jpg "group-title =" VOD | Peliculas ", Terminator 5
+http://172.19.251.2:25461/movie/008966/008966/802.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Rambo 5" tvg-logo = "https://es.web.img3.acsta.net/pictures/19/09/05/10/45/ 5824406.jpg "group-title =" VOD | Peliculas ", Rambo 5
+http://172.19.251.2:25461/movie/008966/008966/773.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Plan de Escape" tvg-logo = "https://pics.filmaffinity.com/Plan_de_escape-902380592-large.jpg" group-title = "VOD | Peliculas ", Plan de Escape
+http://172.19.251.2:25461/movie/008966/008966/766.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Rendirse Jamas 2" tvg-logo = "https://pics.filmaffinity.com/Rendirse_jam_s_2_Combate_final-860923269-large.jpg" group-title = "VOD | Peliculas ", Rendirse Jamas 2
+http://172.19.251.2:25461/movie/008966/008966/761.avi
+#EXTINF: -1 tvg-id = "" tvg-name = "Rendirse Jamas 3" tvg-logo = "https://elifilms.net/wp-content/uploads/2020/03/never-back-down-no -surrender.jpg "group-title =" VOD | Peliculas ", Rendirse Jamas 3
+http://172.19.251.2:25461/movie/008966/008966/762.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Capitana América" ​​tvg-logo = "https://es.web.img2.acsta.net/pictures/19/02/05/12/55/ 5474956.jpg "group-title =" VOD | Peliculas ", Capitana América
+http://172.19.251.2:25461/movie/008966/008966/741.mkv
+#EXTINF: -1 tvg-id = "" tvg-name = "Vengadores Endgame" tvg-logo = "" group-title = "VOD | Peliculas", Vengadores Endgame
+http://172.19.251.2:25461/movie/008966/008966/737.mkv
