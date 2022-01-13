@@ -156,7 +156,7 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/3071
 http://172.19.251.2:25461/live/008966/008966/577.m3u8
 
 #EXTINF: -1 tvg-id = "disney.ec" tvg-name = "INT | DISNEY CHANNEL HQ" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ 2014_Disney_Channel_logo.svg / 800px-2014_Disney_Channel_logo.svg.png "group-title =" TV | Internacional ", INT | DISNEY CHANNEL HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4004
+http://181.78.20.43:8000/play/a19i/index.m3u8
 
 #EXTINF: -1 tvg-id = "disney.ec" tvg-name = "INT | DISNEY JUNIOR HQ" tvg-logo = "https://www.dossiernet.com/assets/uploads/images/disney-junior- logo.jpg "group-title =" TV | Internacional ", INT | HQ JUNIOR DE DISNEY
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3222
