@@ -49,7 +49,7 @@ http://172.19.251.2:25461/live/008966/008966/11.ts
 http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ" tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" grupo- title="TV | Internacional",INT| Sede de HBO PLUS
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3897
+http://globalentertainmentec.xyz:8000/1102/1102/48357
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ" tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" grupo- title="TV | Internacional",INT| Sede de HBO XTREME
 http://user.tvcluboficial.com/stream/nov/nov/814.m3u8
@@ -202,7 +202,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| SEDE EL CANAL DEL FUTBOL" tvg-logo="http://castlempiro.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" grupo- title="TV | Deportes",DEP| SEDE EL CANAL DEL FÚTBOL
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172556
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170162
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP1 HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" grupo -title="TV | Deportes",DEP| SEDE DEL CANAL DEL FÚTBOL OP1
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170163
