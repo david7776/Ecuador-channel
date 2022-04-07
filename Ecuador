@@ -4,16 +4,10 @@
 
 #EXTINF:-1,CINE PREMIUM l LATINO STARZ ENCORE
 http://compitv.info:8080/supertv606/AD3BRDuGbA/64825
-#EXTINF:-1,CINE PREMIUM l LATINO STARZ SUSPENCE
-http://compitv.info:8080/supertv606/AD3BRDuGbA/64829
-#EXTINF:-1,MEXICO l CANAL DE LAS ESTRELLAS
-http://compitv.info:8080/supertv606/AD3BRDuGbA/64848
 #EXTINF:-1,MEXICO l TLNOVELAS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/64865
 #EXTINF:-1,PARAGUAY | TIGO SPORT 3
 http://compitv.info:8080/supertv606/AD3BRDuGbA/70608
-#EXTINF:-1,PARAGUAY | TIGO SPORTS
-http://compitv.info:8080/supertv606/AD3BRDuGbA/70609
 #EXTINF:-1,CARACOL  COLOMBIA
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28425
 #EXTINF:-1,COLOMBIA | CARACOL HD
@@ -42,8 +36,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47829
 http://compitv.info:8080/supertv606/AD3BRDuGbA/48196
 #EXTINF:-1,DISCOVERY KIDS 》
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47847
-#EXTINF:-1,INFANTILES | NICK
-http://compitv.info:8080/supertv606/AD3BRDuGbA/48202
 #EXTINF:-1,INFANTIL | DISNEY JR
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28836
 #EXTINF:-1,INFANTIL | DISNEY JR
@@ -64,8 +56,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47718
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47736
 #EXTINF:-1,LATINOS | ST☆R  ACTION ☆
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47793
-#EXTINF:-1,LATINOS | ST☆R  MOVIES
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47775
 #EXTINF:-1,LATINOS | HBO 2
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47700
 #EXTINF:-1,LATINOS | HBO FAMILY HD
@@ -74,8 +64,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47773
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47728
 #EXTINF:-1,LATINOS | AXN HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47746
-#EXTINF:-1,LATINOS | SPACE
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47788
 #EXTINF:-1,LATINOS | TBS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47688
 #EXTINF:-1,LATINOS | TLC
@@ -124,8 +112,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/111599
 http://compitv.info:8080/supertv606/AD3BRDuGbA/116356
 #EXTINF:-1,ECUADOR | ECUAVISA COSTA SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/113166
-#EXTINF:-1,ECUADOR | OROMAR TV FHD ☆
-http://compitv.info:8080/supertv606/AD3BRDuGbA/28600
 #EXTINF:-1,ECUADOR | TELEAMAZONAS COSTA
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28618
 #EXTINF:-1,ECUADOR | TELEAMAZONAS SIERRA  ☆
@@ -138,8 +124,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/28619
 http://compitv.info:8080/supertv606/AD3BRDuGbA/64432
 #EXTINF:-1,ECUADOR | RTS SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28616
-#EXTINF:-1,24/7 | Peppa Pig
-http://compitv.info:8080/supertv606/AD3BRDuGbA/118307
 #EXTINF:-1,PPV | LATINO 8
 http://compitv.info:8080/supertv606/AD3BRDuGbA/118309
 #EXTINF:-1,PPV | LATINO 7
@@ -182,14 +166,10 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47664
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47662
 #EXTINF:-1,DEPORTES | UFC
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47657
-#EXTINF:-1,DEPORTES | NBA
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47648
 #EXTINF:-1,DEPORTES | ADRENALINA SPORTS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/111700
 #EXTINF:-1,DEPORTES | TELETRAK
 http://compitv.info:8080/supertv606/AD3BRDuGbA/68452
-#EXTINF:-1,DEPORTES | TUDN
-http://compitv.info:8080/supertv606/AD3BRDuGbA/71261
 #EXTINF:-1,DEPORTES | TENINS CHANNEL 1
 http://compitv.info:8080/supertv606/AD3BRDuGbA/126612
 #EXTINF:-1,24/7 FUTURAMA
@@ -222,12 +202,8 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/144251
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47673
 #EXTINF:-1,DEPORTES | ESPN 2 ARG OPC
 http://compitv.info:8080/supertv606/AD3BRDuGbA/118379
-#EXTINF:-1,DEPORTES | ESPN 2 ARG
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47678
 #EXTINF:-1,DEPORTES | ESPN  Xtreme
 http://compitv.info:8080/supertv606/AD3BRDuGbA/114357
-#EXTINF:-1,DEPORTES | ESPN 3 SUR
-http://compitv.info:8080/supertv606/AD3BRDuGbA/97568
 #EXTINF:-1,DEPORTES | ESPN MX
 http://compitv.info:8080/supertv606/AD3BRDuGbA/64882
 #EXTINF:-1,DEPORTES | ESPN 2 MX
@@ -256,8 +232,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/28437
 http://compitv.info:8080/supertv606/AD3BRDuGbA/174021
 #EXTINF:-1,MUNDO BEBE | A DORMIR
 http://compitv.info:8080/supertv606/AD3BRDuGbA/177513
-#EXTINF:-1,⚽️ EC-  ECDF  02
-http://compitv.info:8080/supertv606/AD3BRDuGbA/90821
 #EXTINF:-1,⚽️ EC-  GOL TV  01
 http://compitv.info:8080/supertv606/AD3BRDuGbA/64811
 #EXTINF:-1,⚽️ EC-  GOL TV  02
@@ -352,18 +326,10 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252371
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252372
 #EXTINF:-1,CINE LATINO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252373
-#EXTINF:-1,DHE SD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252374
 #EXTINF:-1,STAR CHANNEL SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252376
 #EXTINF:-1,STAR COMEDY SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252380
-#EXTINF:-1,STAR FUN SD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252381
-#EXTINF:-1,STAR LIFE SD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252382
-#EXTINF:-1,STAR SERIES SD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252384
 #EXTINF:-1,GOLDEN EDGE SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252388
 #EXTINF:-1,GOLDEN PREMIER SD
@@ -378,16 +344,10 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252395
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252403
 #EXTINF:-1,SPACE SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252404
-#EXTINF:-1,SYFY CHANNEL  SD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252406
 #EXTINF:-1,TBS SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252407
 #EXTINF:-1,WARNER TV SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252412
-#EXTINF:-1,CAZA & PESCA
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252431
-#EXTINF:-1,DISCOVERY Channel HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252437
 #EXTINF:-1,DISCOVERY Civilization
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252438
 #EXTINF:-1,DISCOVERY Home & Health SD
@@ -412,8 +372,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252455
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252456
 #EXTINF:-1,History SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252458
-#EXTINF:-1,History HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252459
 #EXTINF:-1,History 2 HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252461
 #EXTINF:-1,PASIONES HD
@@ -424,8 +382,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252475
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252615
 #EXTINF:-1,CINE| A&E MEXICO FHD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252981
-#EXTINF:-1,CINE| A ESTRENAR FHD **
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252985
 #EXTINF:-1,CINE| AMC FHD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252987
 #EXTINF:-1,CINE| DE PELICULAS CLASICO HD**
@@ -438,14 +394,8 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252995
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252998
 #EXTINF:-1,CINE| CINEMA DINAMITA HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253000
-#EXTINF:-1,CINE| CINEMAX ACTION FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253002
-#EXTINF:-1,CINE| CINEMAX EAST FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253003
 #EXTINF:-1,CINE| CINEMAX FHD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253004
-#EXTINF:-1,CINE| DHE FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253008
 #EXTINF:-1,CINE| STUDIO UNIVERSAL  HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253010
 #EXTINF:-1,CINE| ST⭐R   HD
@@ -458,18 +408,12 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/253017
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253019
 #EXTINF:-1,CINE| STAR FUN FHD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253023
-#EXTINF:-1,CINE| FOX LIFE FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253024
-#EXTINF:-1,CINE| FOX MOVIES PREMIUN FHD MEXICO
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253026
 #EXTINF:-1,CINE| ST⭐R  COMEDY FHD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253029
 #EXTINF:-1,CINE| ST⭐R  COMEDY HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253030
 #EXTINF:-1,CINE| STAR  FUN HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253031
-#EXTINF:-1,CINE| STAR SERIES PREMIUN FHD MEXICO
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253032
 #EXTINF:-1,CINE| FX FHD MEXICO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253034
 #EXTINF:-1,CINE| GOLDEN HD
@@ -480,8 +424,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/253040
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253042
 #EXTINF:-1,CINE| HBO 2 HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253045
-#EXTINF:-1,CINE| HBO FAMILY FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253047
 #EXTINF:-1,CINE| HBO FHD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253049
 #EXTINF:-1,CINE| HBO MUNDI  FHD
@@ -490,26 +432,8 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/253054
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253057
 #EXTINF:-1,CINE| HBO XTREME HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253063
-#EXTINF:-1,CINE| I SAT CHANNEL HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253064
-#EXTINF:-1,CINE| MOREMAX FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253068
-#EXTINF:-1,CINE| MOVIEMAX FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253069
 #EXTINF:-1,CINE| MULTIPREMIER HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253072
-#EXTINF:-1,CINE| PARAMOUNT CHANNEL FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253074
-#EXTINF:-1,CINE| SPACE FHD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253086
-#EXTINF:-1,CINE| STARZ EDGE LATINO HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253093
-#EXTINF:-1,CINE| STARZ ENCORE  ACTION HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253094
-#EXTINF:-1,CINE| STARZ ENCORE WESTER HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253098
-#EXTINF:-1,CINE| STARZ KIDS  FAMILY HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253100
 #EXTINF:-1,CINE| STUDIO UNIVERSAL HD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253103
 #EXTINF:-1,CINE| SYFY FHD
@@ -532,10 +456,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/263818
 http://compitv.info:8080/supertv606/AD3BRDuGbA/266473
 #EXTINF:-1,24/7 CLASICOS DE DISNEY
 http://compitv.info:8080/supertv606/AD3BRDuGbA/266478
-#EXTINF:-1,CHAMPIONS 04
-http://compitv.info:8080/supertv606/AD3BRDuGbA/279933
-#EXTINF:-1,CHAMPIONS 02
-http://compitv.info:8080/supertv606/AD3BRDuGbA/279937
 #EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL Z
 http://compitv.info:8080/supertv606/AD3BRDuGbA/279940
 #EXTINF:-1,24/7 SERIES INFANTILES | LOS SIMPSON
@@ -546,20 +466,14 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/279943
 http://compitv.info:8080/supertv606/AD3BRDuGbA/279945
 #EXTINF:-1,24/7 SERIES INFANTILES | CHAVO DEL OCHO ANIMADO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/279946
-#EXTINF:-1,24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
-http://compitv.info:8080/supertv606/AD3BRDuGbA/279947
 #EXTINF:-1,24/7 SERIES INFANTILES| DIGIMON ADVENTURE
 http://compitv.info:8080/supertv606/AD3BRDuGbA/279975
-#EXTINF:-1,24/7 SERIES INFANTILES| PEPPA PIG
-http://compitv.info:8080/supertv606/AD3BRDuGbA/279982
 #EXTINF:-1,MUNDO BEBE | TATTY Y SUS AMIGOS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/287164
 #EXTINF:-1,MUNDO BEBE | PERRO CHOCOLO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/287178
 #EXTINF:-1,CHILE | ESPN
 http://compitv.info:8080/supertv606/AD3BRDuGbA/287495
-#EXTINF:-1,PPV 4
-http://compitv.info:8080/supertv606/AD3BRDuGbA/298458
 #EXTINF:-1,HUMOR | DINAMITA SHOW VIÑA
 http://compitv.info:8080/supertv606/AD3BRDuGbA/301045
 #EXTINF:-1,24/7 | SOUTH PARK
@@ -568,15 +482,11 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/303937
 http://compitv.info:8080/supertv606/AD3BRDuGbA/313701
 #EXTINF:-1,INFANTILES | CARTOONITO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/320746
-#EXTINF:-1,SARMIENTO VS WANDERS
-http://compitv.info:8080/supertv606/AD3BRDuGbA/320816
 #EXTINF:-1,STAR + SD
 http://compitv.info:8080/supertv606/AD3BRDuGbA/320004
 #EXTINF:-1,DEPORTES | SPORTS 3 ⚽
 http://compitv.info:8080/supertv606/AD3BRDuGbA/325240
 #EXTINF:-1,⭐⚽ DIREC-TV 2 OPC ⚽⭐
 http://compitv.info:8080/supertv606/AD3BRDuGbA/326669
-#EXTINF:-1,⭐⚽ DIREC-TV 2 CO ⚽⭐
-http://compitv.info:8080/supertv606/AD3BRDuGbA/326671
 
 
