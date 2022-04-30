@@ -592,6 +592,293 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/117359
 #EXTINF:-1,INFANTILES | Pluto kids
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/135296
 
-
+#EXTINF:-1,#EXTGRP: CDN
+http://190.83.119.67:8000/play/a0s1/index.m3u8
+#EXTINF:-1,#EXTGRP:UNIVERSAL COMEDY
+http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1,#EXTGRP:UNIVISION
+http://190.83.119.67:8000/play/a0rz/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 04
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1,#EXTGRP:HISTORY 2
+http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0qr/index.m3u8
+#EXTINF:-1,#EXTGRP:GOURMET
+http://190.83.119.67:8000/play/a0r8/index.m3u8
+#EXTINF:-1,#EXTGRP:DISCOVERY
+http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1,#EXTGRP:FX
+http://190.83.119.67:8000/play/a0r4/index.m3u8
+#EXTINF:-1,#EXTGRP:STUDIO UNIVERSAL
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 11
+http://190.83.119.67:8000/play/a0p3/index.m3u8
+#EXTINF:-1,#EXTGRP:DIGITAL 15
+http://190.83.119.67:8000/play/a0qp/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 13
+http://190.83.119.67:8000/play/a0re/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 14
+http://190.83.119.67:8000/play/a0qg/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 15
+http://190.83.119.67:8000/play/a0t4/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 16
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 17
+http://190.83.119.67:8000/play/a0qt/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 18
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 19
+http://190.83.119.67:8000/play/a0p2/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 20
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 21
+http://190.83.119.67:8000/play/a0rj/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 22
+http://190.83.119.67:8000/play/a0rl/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 23
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 24
+http://190.83.119.67:8000/play/a0rt/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 25
+http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 26
+http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 27
+http://190.83.119.67:8000/play/a0s4/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 28
+http://190.83.119.67:8000/play/a0st/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 29
+http://190.83.119.67:8000/play/a0sw/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 30
+http://190.83.119.67:8000/play/a0q6/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 31
+http://190.83.119.67:8000/play/a0sr/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 32
+http://190.83.119.67:8000/play/a0ss/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 33
+http://190.83.119.67:8000/play/a0rs/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 34
+http://190.83.119.67:8000/play/a0sq/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 35
+http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 36
+http://190.83.119.67:8000/play/a0so/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 37
+http://190.83.119.67:8000/play/a0sp/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 38
+http://190.83.119.67:8000/play/a0py/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 39
+http://190.83.119.67:8000/play/a0po/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 40
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 41
+http://190.83.119.67:8000/play/a0pp/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 42
+http://190.83.119.67:8000/play/a0qc/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 43
+http://190.83.119.67:8000/play/a0rq/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 44
+http://190.83.119.67:8000/play/a0t0/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 45
+http://190.83.119.67:8000/play/a0tm/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 46
+http://190.83.119.67:8000/play/a0se/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 47
+http://190.83.119.67:8000/play/a0pn/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 48
+http://190.83.119.67:8000/play/a0sb/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 49
+http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 50
+http://190.83.119.67:8000/play/a0qs/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 51
+http://190.83.119.67:8000/play/a0sz/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 52
+http://190.83.119.67:8000/play/a0pq/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 53
+http://190.83.119.67:8000/play/a0pk/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 54
+http://190.83.119.67:8000/play/a0rd/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 55
+http://190.83.119.67:8000/play/a0rp/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 56
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 57
+http://190.83.119.67:8000/play/a0qb/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 58
+http://190.83.119.67:8000/play/a0t3/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 59
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 60
+http://190.83.119.67:8000/play/a0r5/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 61
+http://190.83.119.67:8000/play/a0qy/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 62
+http://190.83.119.67:8000/play/a0tf/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 63
+http://190.83.119.67:8000/play/a0sc/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 64
+http://190.83.119.67:8000/play/a0s8/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 65
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 66
+http://190.83.119.67:8000/play/a0qw/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 67
+http://190.83.119.67:8000/play/a0pj/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 68
+http://190.83.119.67:8000/play/a0r6/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 69
+http://190.83.119.67:8000/play/a0sd/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 70
+http://190.83.119.67:8000/play/a0qu/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 71
+http://190.83.119.67:8000/play/a0s6/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 72
+http://190.83.119.67:8000/play/a0ra/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 73
+http://190.83.119.67:8000/play/a0rc/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 74
+http://190.83.119.67:8000/play/a0sg/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 75
+http://190.83.119.67:8000/play/a0p5/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 76
+http://190.83.119.67:8000/play/a0rg/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 77
+http://190.83.119.67:8000/play/a0pz/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 78
+http://190.83.119.67:8000/play/a0sa/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 79
+http://190.83.119.67:8000/play/a0pu/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 80
+http://190.83.119.67:8000/play/a0pr/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 81
+http://190.83.119.67:8000/play/a0pt/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 82
+http://190.83.119.67:8000/play/a0pv/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 83
+http://190.83.119.67:8000/play/a0ps/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 84
+http://190.83.119.67:8000/play/a0tc/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 85
+http://190.83.119.67:8000/play/a0qx/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 86
+http://190.83.119.67:8000/play/a0p1/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 87
+http://190.83.119.67:8000/play/a0oz/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 88
+http://190.83.119.67:8000/play/a0ql/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 89
+http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 90
+http://190.83.119.67:8000/play/a0rx/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 91
+http://190.83.119.67:8000/play/a0sf/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 92
+http://190.83.119.67:8000/play/a0qo/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 93
+http://190.83.119.67:8000/play/a0qz/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 94
+http://190.83.119.67:8000/play/a0s5/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 95
+http://190.83.119.67:8000/play/a0s9/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 96
+http://190.83.119.67:8000/play/a0qk/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 97
+http://190.83.119.67:8000/play/a0q9/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 98
+http://190.83.119.67:8000/play/a0pl/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 99
+http://190.83.119.67:8000/play/a0pw/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 100
+http://190.83.119.67:8000/play/a0p6/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 101
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 102
+http://190.83.119.67:8000/play/a0s7/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 103
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 104
+http://190.83.119.67:8000/play/a0qd/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 105
+http://190.83.119.67:8000/play/a0oo/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 106
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 107
+http://190.83.119.67:8000/play/a0tl/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 108
+http://190.83.119.67:8000/play/a0qe/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 109
+http://190.83.119.67:8000/play/a0rf/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 110
+http://190.83.119.67:8000/play/a0r2/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 111
+http://190.83.119.67:8000/play/a0t9/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 112
+http://190.83.119.67:8000/play/a0r3/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 113
+http://190.83.119.67:8000/play/a0qj/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 114
+http://190.83.119.67:8000/play/a0sh/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 115
+http://190.83.119.67:8000/play/a0pc/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 116
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 117
+http://190.83.119.67:8000/play/a0q1/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 118
+http://190.83.119.67:8000/play/a0ru/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 119
+http://190.83.119.67:8000/play/a0qf/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 120
+http://190.83.119.67:8000/play/a0r9/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 121
+http://190.83.119.67:8000/play/a0q3/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 122
+http://190.83.119.67:8000/play/a0rr/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 123
+http://190.83.119.67:8000/play/a0pg/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 124
+http://190.83.119.67:8000/play/a0td/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 125
+http://190.83.119.67:8000/play/a0qq/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 126
+http://190.83.119.67:8000/play/a0qi/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 127
+http://190.83.119.67:8000/play/a0oq/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0oy/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0pm/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0sj/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0uj/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0si/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0s3/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://200.6.227.230:8000/play/a04a/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://200.6.227.230:8000/play/a04e/index.m3u8
+#EXTINF:-1,#EXTGRP:Lista 06
+http://200.6.227.230:8000/play/a04c/index.m3u8
 
 
