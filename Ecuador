@@ -3,16 +3,6 @@
 
 #EXTINF:-1,Latino | ADN40
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50333
-#EXTINF:-1,Latino | AZ Corazón
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/50343
-#EXTINF:-1,Latino | PASSIONES OPC
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/50345
-#EXTINF:-1,Latino | Canal 5
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/50351
-#EXTINF:-1,Latino | Canal De Las Estrellas
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/50352
-#EXTINF:-1,Latino | CNN en Espanol
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/50358
 #EXTINF:-1,Latino | Comedy Central
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50359
 #EXTINF:-1,Latino | El Garage
@@ -27,12 +17,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/50405
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50415
 #EXTINF:-1,Latino | Lifetime
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50417
-#EXTINF:-1,Latino | Pasiones Usa
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/50430
 #EXTINF:-1,Latino | TLnovelas
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50446
-#EXTINF:-1,CINE PREMIUM l LATINO STARZ SUSPENCE
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/64829
 #EXTINF:-1,CINE PREMIUM l LATINO SHOWTIME EAST
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/64832
 #EXTINF:-1,MEXICO l MULTIMEDIOS MONTERREY
@@ -43,12 +29,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/64848
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/77415
 #EXTINF:-1,ESPAÑA | DISNEY CHANNEL
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/77421
-#EXTINF:-1,24/7 | MARVEL
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/82162
 #EXTINF:-1,PARAGUAY l TIGO SPORTS +
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/83907
-#EXTINF:-1,PARAGUAY l TIGO SPORST 2
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/83909
 #EXTINF:-1,CHILE |  ESPN ☆
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/67420
 #EXTINF:-1,CHILE | CANAL  FOX SPORTS
@@ -59,8 +41,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/28425
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28444
 #EXTINF:-1,CARACOL INTERNACIONAL COLOMBIA
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28427
-#EXTINF:-1,COLOMBIA | RCN 01
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/28438
 #EXTINF:-1,COLOMBIA | RCN
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/31830
 #EXTINF:-1,RCN  COLOMBIA HD
@@ -103,8 +83,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47702
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47718
 #EXTINF:-1,LATINOS | ST☆R  HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47736
-#EXTINF:-1,LATINOS | ST☆R  FAMILY
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/47795
 #EXTINF:-1,LATINOS | HBO 2
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47700
 #EXTINF:-1,LATINOS | HBO FAMILY HD
@@ -165,10 +143,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/68215
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/104439
 #EXTINF:-1,BOLIVIA | TIGO SPORTS 1
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/64430
-#EXTINF:-1,CANAL CLARO
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/111468
-#EXTINF:-1,CLARO CINEMA
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/111469
 #EXTINF:-1,BOLIVIA | TIGO ESPORTS 3
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/111701
 #EXTINF:-1,《 ⚽️ 》TNT 1⚽️
@@ -191,10 +165,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/28600
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28618
 #EXTINF:-1,ECUADOR | TELEAMAZONAS SIERRA  ☆
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28605
-#EXTINF:-1,ECUADOR | TC TELEVISION HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/64431
-#EXTINF:-1,ECUADOR | TC TELEVISION SD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/28619
 #EXTINF:-1,ECUADOR | TELEVICENTRO SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/64432
 #EXTINF:-1,ECUADOR | RTS HD  ☆
@@ -207,14 +177,10 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47636
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47681
 #EXTINF:-1,DEPORTES | FOX SPORTS  MX
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47680
-#EXTINF:-1,DEPORTES | FOX SPORTS HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/47638
 #EXTINF:-1,DEPORTES |FOX SPORTS 1
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/48215
 #EXTINF:-1,DEPORTES | FOX SPORTS PREMIUM
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/106575
-#EXTINF:-1,DEPORTES l FOX SPORTS 2
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/115999
 #EXTINF:-1,DEPORTES | MOVISTAR DEPORTE
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47646
 #EXTINF:-1,DEPORTES | MOVISTAR LA LIGA
@@ -265,18 +231,12 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/144250
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47674
 #EXTINF:-1,DEPORTES | ESPN 1 ARG OPC
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47673
-#EXTINF:-1,DEPORTES | ESPN 2 ARG OPC
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/118379
 #EXTINF:-1,DEPORTES | ESPN 2 ARG
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47678
 #EXTINF:-1,DEPORTES | ESPN 1 HD SUR
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47675
 #EXTINF:-1,DEPORTES | ESPN  Xtreme
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/114357
-#EXTINF:-1,DEPORTES | ESPN 2
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/64880
-#EXTINF:-1,DEPORTES | ESPN SPORTS 2 CO
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/146493
 #EXTINF:-1,DEPORTES | AFIZZIONADOS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/147825
 #EXTINF:-1,24/7 ATLETAS DE LA RISA
@@ -285,8 +245,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/152048
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/155840
 #EXTINF:-1,MUNDO BEBE | BOB EL TREN
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/158452
-#EXTINF:-1,《 ⚽️ 》WIN - SPORTS ⚽️ 01 FULL HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/28436
 #EXTINF:-1,《 ⚽️ 》WIN - SPORTS ⚽️ 02
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47660
 #EXTINF:-1,《 ⚽️ 》WIN - SPORTS ⚽️ 03
@@ -295,16 +253,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/30307
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/117350
 #EXTINF:-1,《 ⚽️ 》WIN  SPORTS + ⚽️ 05
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28442
-#EXTINF:-1,《 ⚽️ 》WIN  SPORTS + ⚽️ 06
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/85379
 #EXTINF:-1,《 ⚽️ 》WIN  SPORTS + ⚽️ 07
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47661
-#EXTINF:-1,《 ⚽️ 》WIN  SPORTS + ⚽️ 08 FULL HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/28437
-#EXTINF:-1,BEIN SPORTS Ñ FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/174021
-#EXTINF:-1,BEIN SPORT Ñ HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/174022
 #EXTINF:-1,DEPORTES | TNT SPORTS AR
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/174644
 #EXTINF:-1,MUNDO BEBE | A DORMIR
@@ -317,12 +267,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/177700
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/177701
 #EXTINF:-1,ESPAÑA | DAZN 1 VIP FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/177711
-#EXTINF:-1,ESPAÑA | DAZN 2 VIP FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/177712
-#EXTINF:-1,ESPAÑA | DAZN 3 VIP FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/177713
-#EXTINF:-1,ESPAÑA | DAZN 4 VIP FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/177714
 #EXTINF:-1,ESPAÑA | EUROSPORTS 2 SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/177724
 #EXTINF:-1,ESPAÑA | MOVISTAR LA LIGA SD
@@ -331,28 +275,16 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/177729
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/27893
 #EXTINF:-1,⚽️ EC- M+02
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/88642
-#EXTINF:-1,⚽️ EC- M+03
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/81982
 #EXTINF:-1,⚽️ EC - M+01
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/116368
-#EXTINF:-1,⚽️ EC-  GOL TV  01
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/64811
 #EXTINF:-1,⚽️ EC-  GOL TV  02
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28596
 #EXTINF:-1,⚽️ EC-  GOL TV  03
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/64813
-#EXTINF:-1,⚽️ EC-  GOL TV  04
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/84640
-#EXTINF:-1,⚽️ EC - GOL TV 05
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/114331
 #EXTINF:-1,ECUADOR | TELEAMAZONAS COSTA SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/182452
-#EXTINF:-1,⚽️ EC - CDF SD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/182997
 #EXTINF:-1,⭐ 24/7 infantiles ⭐ 03
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/183935
-#EXTINF:-1,⭐ 24/7 infantiles ⭐ 06
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/183938
 #EXTINF:-1,⭐ 24/7 infantiles ⭐ 07
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/183939
 #EXTINF:-1,MUNDO BEBE | POCOYO
@@ -361,12 +293,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/198846
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/209210
 #EXTINF:-1,24/7 | LOS CABALLEROS DEL ZODIACO
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/211394
-#EXTINF:-1,⭐ CINEMA COMEDIA ⭐ 02
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/219159
-#EXTINF:-1,DW ESPAÑOL | DE
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/225783
-#EXTINF:-1,DEPORTES | ESPN+
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/232906
 #EXTINF:-1,ECUADOR | ECUAVISA COSTA 2mb
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/233013
 #EXTINF:-1,ECUADOR | ECUAVISA SIERRA 2mb
@@ -383,8 +309,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252368
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252369
 #EXTINF:-1,CINEMAX SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252371
-#EXTINF:-1,CINEMA DINAMITA
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252372
 #EXTINF:-1,STAR CHANNEL SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252376
 #EXTINF:-1,UNIVERSAL COMEDY SD
@@ -405,10 +329,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252392
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252393
 #EXTINF:-1,HBO FAMILY SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252395
-#EXTINF:-1,HBO XTREME SD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252399
-#EXTINF:-1,I SAT SD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252400
 #EXTINF:-1,SONY CHANNEL SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252403
 #EXTINF:-1,SPACE SD
@@ -419,16 +339,12 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252405
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252409
 #EXTINF:-1,TNT SERIES SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252410
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252411
 #EXTINF:-1,WARNER TV SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252412
 #EXTINF:-1,ANIMAL Planet SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252428
 #EXTINF:-1,ANIMAL Planet HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252429
-#EXTINF:-1,COMEDY CENTRAL HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252435
 #EXTINF:-1,DISCOVERY Channel HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252437
 #EXTINF:-1,DISCOVERY Investigation SD
@@ -443,8 +359,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252448
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252449
 #EXTINF:-1,DISTRITO Comedia
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252450
-#EXTINF:-1,FASHION y Lifestyle HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252454
 #EXTINF:-1,FILM & ARTS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252455
 #EXTINF:-1,Food Network
@@ -479,14 +393,10 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252983
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252985
 #EXTINF:-1,CINE| DE PELICULAS CLASICO HD**
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252990
-#EXTINF:-1,CINE| AXN FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252991
 #EXTINF:-1,CINE| CINECANAL LATINO FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252998
 #EXTINF:-1,CINE| CINEMA DINAMITA HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253000
-#EXTINF:-1,CINE| CINEMAX ACTION FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253002
 #EXTINF:-1,CINE| CINEMAX EAST FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253003
 #EXTINF:-1,CINE| CINEMAX FHD
@@ -503,12 +413,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253010
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253014
 #EXTINF:-1,CINE| ST⭐R  CHANNEL FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253017
-#EXTINF:-1,CINE| ST⭐R  CINEMA FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253019
 #EXTINF:-1,CINE| UNIVERSAL CRIME FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253023
-#EXTINF:-1,CINE| UNIVERSAL COMEDY FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253029
 #EXTINF:-1,CINE| UNIVERSAL CRIME HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253031
 #EXTINF:-1,CINE| STAR SERIES PREMIUN FHD MEXICO
@@ -519,14 +425,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253034
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253038
 #EXTINF:-1,CINE| GOLDEN HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253039
-#EXTINF:-1,CINE| GOLDEN PLUS FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253040
-#EXTINF:-1,CINE| GOLDEN PREMIER FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253042
 #EXTINF:-1,CINE| HBO 2 HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253045
-#EXTINF:-1,CINE| HBO FAMILY FHD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253047
 #EXTINF:-1,CINE| HBO FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253049
 #EXTINF:-1,CINE| HBO MUNDI  FHD
@@ -537,8 +437,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253055
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253057
 #EXTINF:-1,CINE| HBO SIGNATURE HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253060
-#EXTINF:-1,CINE| HBO XTREME HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/253063
 #EXTINF:-1,CINE| I SAT CHANNEL HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253064
 #EXTINF:-1,CINE| MAX PRIME FHD
@@ -575,22 +473,16 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253113
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253114
 #EXTINF:-1,ECUADOR | TELEAMAZONAS COSTA 2MB
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/256109
-#EXTINF:-1,24/7 MACGIVER
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/266476
 #EXTINF:-1,24/7 TOM Y JERRY
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/266477
 #EXTINF:-1,24/7 CLASICOS DE DISNEY
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/266478
-#EXTINF:-1,CHAMPIONS 01
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/279737
 #EXTINF:-1,CHAMPIONS 05
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279934
 #EXTINF:-1,CHAMPIONS 06
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279935
 #EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL Z
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279940
-#EXTINF:-1,24/7 SERIES INFANTILES | LOS SIMPSON
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/279941
 #EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL SUPER
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279943
 #EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL GT
@@ -611,32 +503,22 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/279970
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279975
 #EXTINF:-1,ESPAÑA | MOVISTAR LA LIGA 2
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/283280
-#EXTINF:-1,ESPAÑA | MOVISTAR LA LIGA 3
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/283281
 #EXTINF:-1,DEPORTES | ESPN PLUS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/283627
-#EXTINF:-1,⭐ ⚽ DIREC-TV 2⚽ ⭐
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/286773
 #EXTINF:-1,MUNDO BEBE | PERRO CHOCOLO
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/287178
 #EXTINF:-1,CHILE | ESPN
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/287495
-#EXTINF:-1,DEPORTES I SKY SPORTS MEX
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/298227
 #EXTINF:-1,24/7 FUTURAMA OP2
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/298228
 #EXTINF:-1,DEPORTES | DAZN FORMULA 1
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/298266
-#EXTINF:-1,PPV 4
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/298458
 #EXTINF:-1,《 ⚽️ 》TNT 8 ⚽️
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/313701
 #EXTINF:-1,CINE PREMIUM | MI TV
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/317352
 #EXTINF:-1,STAR + FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/320747
-#EXTINF:-1,STAR + HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/320005
 #EXTINF:-1,STAR + SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/320004
 #EXTINF:-1,BEINS SPORTS | 1
@@ -649,12 +531,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/320939
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/323740
 #EXTINF:-1,UNIVERSAL CINEMA
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/323741
-#EXTINF:-1,UNIVERSAL CRIME
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/323742
-#EXTINF:-1,UNIVERSAL PREMIERE
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/323743
-#EXTINF:-1,UNIVERSAL COMEDY
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/323744
 #EXTINF:-1,DEPORTES | ESPN 4
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/324284
 #EXTINF:-1,UFC 271
