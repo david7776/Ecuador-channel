@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,Latino | ADN40
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50333
 #EXTINF:-1,Latino | Comedy Central
@@ -139,8 +138,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47782
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47790
 #EXTINF:-1,MUSICA | MTV LATINO
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/68215
-#EXTINF:-1,MUNDO BEBE | MICKEY MOUSE
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/104439
 #EXTINF:-1,BOLIVIA | TIGO SPORTS 1
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/64430
 #EXTINF:-1,BOLIVIA | TIGO ESPORTS 3
@@ -225,8 +222,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/141810
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50269
 #EXTINF:-1,PERU l MOVISTAR DEPORTES HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50273
-#EXTINF:-1,MUNDO BEBE | HISTORIAS
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/144250
 #EXTINF:-1,DEPORTES | ESPN 1 ARG
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47674
 #EXTINF:-1,DEPORTES | ESPN 1 ARG OPC
@@ -243,8 +238,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/147825
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/152048
 #EXTINF:-1,《 ⚽️ 》TNT 5 ⚽️
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/155840
-#EXTINF:-1,MUNDO BEBE | BOB EL TREN
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/158452
 #EXTINF:-1,《 ⚽️ 》WIN - SPORTS ⚽️ 02
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47660
 #EXTINF:-1,《 ⚽️ 》WIN - SPORTS ⚽️ 03
@@ -257,8 +250,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/28442
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47661
 #EXTINF:-1,DEPORTES | TNT SPORTS AR
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/174644
-#EXTINF:-1,MUNDO BEBE | A DORMIR
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/177513
 #EXTINF:-1,ESPAÑA | MOVISTAR LA LIGA FHD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/177698
 #EXTINF:-1,ESPAÑA | MOVISTAR LA LIGA 1 HD
@@ -285,10 +276,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/64813
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/182452
 #EXTINF:-1,⭐ 24/7 infantiles ⭐ 03
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/183935
-#EXTINF:-1,⭐ 24/7 infantiles ⭐ 07
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/183939
-#EXTINF:-1,MUNDO BEBE | POCOYO
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/198846
 #EXTINF:-1,⭐ 24/7 infantiles ⭐ 10
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/209210
 #EXTINF:-1,24/7 | LOS CABALLEROS DEL ZODIACO
@@ -301,8 +288,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/233014
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/234925
 #EXTINF:-1,⭐ ⚽️ DIREC-TV 1⚽⭐
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/183011
-#EXTINF:-1,ECUADOR | ZARACAY TV
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252130
 #EXTINF:-1,A&E SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252368
 #EXTINF:-1,AXN SD
@@ -373,8 +358,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252459
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252461
 #EXTINF:-1,HOLA TV
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252462
-#EXTINF:-1,NATGEO WILD HD
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252467
 #EXTINF:-1,TLC SD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252472
 #EXTINF:-1,TLC HD
@@ -489,8 +472,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/279943
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279944
 #EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL Z
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279945
-#EXTINF:-1,24/7 SERIES INFANTILES | YU-GI-OH!
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/279955
 #EXTINF:-1,24/7 SERIES INFANTILES | THUNDERCATS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/279957
 #EXTINF:-1,24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS
@@ -505,8 +486,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/279975
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/283280
 #EXTINF:-1,DEPORTES | ESPN PLUS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/283627
-#EXTINF:-1,MUNDO BEBE | PERRO CHOCOLO
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/287178
 #EXTINF:-1,CHILE | ESPN
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/287495
 #EXTINF:-1,24/7 FUTURAMA OP2
@@ -533,24 +512,12 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/323740
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/323741
 #EXTINF:-1,DEPORTES | ESPN 4
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/324284
-#EXTINF:-1,UFC 271
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/324560
 #EXTINF:-1,DEPORTES | SPORTS 3 ⚽
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/325240
 #EXTINF:-1,⭐⚽ DIREC-TV 2 OPC ⚽⭐
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/326669
-#EXTINF:-1,24/7 ROMPIENDO LAS REGLAS
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/329822
 #EXTINF:-1,24/7 MATRIX
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/329824
-#EXTINF:-1,24/7 El asombroso mundo de Gumball
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/329847
-#EXTINF:-1, Arnold!
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/329850
-#EXTINF:-1,24/7 Padre de familia
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/329963
-#EXTINF:-1,24/7 El juego del calamar
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/329964
 #EXTINF:-1,24/7  Los cuentos del guardián de la cripta
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/329969
 #EXTINF:-1,24/7 Big Bang
@@ -565,10 +532,6 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/330206
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/330441
 #EXTINF:-1,24/7 CANTINFLAS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/330486
-#EXTINF:-1,24/7 Peppa Pig
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/330487
-#EXTINF:-1,24/7 Dragon ball
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/330646
 #EXTINF:-1,FOX SPORTS 1
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/330648
 #EXTINF:-1,ESPN 4
@@ -592,293 +555,161 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/117359
 #EXTINF:-1,INFANTILES | Pluto kids
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/135296
 
-#EXTINF:-1,#EXTGRP: CDN
-http://190.83.119.67:8000/play/a0s1/index.m3u8
-#EXTINF:-1,#EXTGRP:UNIVERSAL COMEDY
-http://190.83.119.67:8000/play/a0t1/index.m3u8
-#EXTINF:-1,#EXTGRP:UNIVISION
-http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 04
-http://190.83.119.67:8000/play/a0t8/index.m3u8
-#EXTINF:-1,#EXTGRP:HISTORY 2
-http://190.83.119.67:8000/play/a0r7/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0qr/index.m3u8
-#EXTINF:-1,#EXTGRP:GOURMET
-http://190.83.119.67:8000/play/a0r8/index.m3u8
-#EXTINF:-1,#EXTGRP:DISCOVERY
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:-1,#EXTGRP:FX
-http://190.83.119.67:8000/play/a0r4/index.m3u8
-#EXTINF:-1,#EXTGRP:STUDIO UNIVERSAL
-http://190.83.119.67:8000/play/a0q2/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 11
-http://190.83.119.67:8000/play/a0p3/index.m3u8
-#EXTINF:-1,#EXTGRP:DIGITAL 15
-http://190.83.119.67:8000/play/a0qp/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 13
-http://190.83.119.67:8000/play/a0re/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 14
-http://190.83.119.67:8000/play/a0qg/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 15
-http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 16
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 17
-http://190.83.119.67:8000/play/a0qt/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 18
-http://190.83.119.67:8000/play/a0qa/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 19
-http://190.83.119.67:8000/play/a0p2/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 20
-http://190.83.119.67:8000/play/a0p9/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 21
-http://190.83.119.67:8000/play/a0rj/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 22
-http://190.83.119.67:8000/play/a0rl/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 23
-http://190.83.119.67:8000/play/a0q4/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 24
-http://190.83.119.67:8000/play/a0rt/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 25
-http://190.83.119.67:8000/play/a0q5/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 26
-http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 27
-http://190.83.119.67:8000/play/a0s4/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 28
-http://190.83.119.67:8000/play/a0st/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 29
-http://190.83.119.67:8000/play/a0sw/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 30
-http://190.83.119.67:8000/play/a0q6/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 31
-http://190.83.119.67:8000/play/a0sr/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 32
-http://190.83.119.67:8000/play/a0ss/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 33
-http://190.83.119.67:8000/play/a0rs/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 34
-http://190.83.119.67:8000/play/a0sq/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 35
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 36
-http://190.83.119.67:8000/play/a0so/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 37
-http://190.83.119.67:8000/play/a0sp/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 38
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 39
-http://190.83.119.67:8000/play/a0po/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 40
-http://190.83.119.67:8000/play/a0q8/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 41
-http://190.83.119.67:8000/play/a0pp/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 42
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 43
-http://190.83.119.67:8000/play/a0rq/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 44
-http://190.83.119.67:8000/play/a0t0/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 45
-http://190.83.119.67:8000/play/a0tm/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 46
-http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 47
-http://190.83.119.67:8000/play/a0pn/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 48
-http://190.83.119.67:8000/play/a0sb/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 49
-http://190.83.119.67:8000/play/a0p8/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 50
-http://190.83.119.67:8000/play/a0qs/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 51
-http://190.83.119.67:8000/play/a0sz/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 52
-http://190.83.119.67:8000/play/a0pq/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 53
-http://190.83.119.67:8000/play/a0pk/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 54
-http://190.83.119.67:8000/play/a0rd/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 55
-http://190.83.119.67:8000/play/a0rp/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 56
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 57
-http://190.83.119.67:8000/play/a0qb/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 58
-http://190.83.119.67:8000/play/a0t3/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 59
-http://190.83.119.67:8000/play/a0t7/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 60
-http://190.83.119.67:8000/play/a0r5/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 61
-http://190.83.119.67:8000/play/a0qy/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 62
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 63
-http://190.83.119.67:8000/play/a0sc/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 64
-http://190.83.119.67:8000/play/a0s8/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 65
-http://190.83.119.67:8000/play/a0rb/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 66
-http://190.83.119.67:8000/play/a0qw/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 67
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 68
-http://190.83.119.67:8000/play/a0r6/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 69
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 70
-http://190.83.119.67:8000/play/a0qu/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 71
-http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 72
-http://190.83.119.67:8000/play/a0ra/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 73
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 74
-http://190.83.119.67:8000/play/a0sg/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 75
-http://190.83.119.67:8000/play/a0p5/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 76
-http://190.83.119.67:8000/play/a0rg/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 77
-http://190.83.119.67:8000/play/a0pz/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 78
-http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 79
-http://190.83.119.67:8000/play/a0pu/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 80
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 81
-http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 82
-http://190.83.119.67:8000/play/a0pv/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 83
-http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 84
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 85
-http://190.83.119.67:8000/play/a0qx/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 86
-http://190.83.119.67:8000/play/a0p1/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 87
-http://190.83.119.67:8000/play/a0oz/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 88
-http://190.83.119.67:8000/play/a0ql/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 89
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 90
-http://190.83.119.67:8000/play/a0rx/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 91
-http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 92
-http://190.83.119.67:8000/play/a0qo/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 93
-http://190.83.119.67:8000/play/a0qz/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 94
-http://190.83.119.67:8000/play/a0s5/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 95
-http://190.83.119.67:8000/play/a0s9/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 96
-http://190.83.119.67:8000/play/a0qk/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 97
-http://190.83.119.67:8000/play/a0q9/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 98
-http://190.83.119.67:8000/play/a0pl/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 99
-http://190.83.119.67:8000/play/a0pw/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 100
-http://190.83.119.67:8000/play/a0p6/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 101
-http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 102
-http://190.83.119.67:8000/play/a0s7/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 103
-http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 104
-http://190.83.119.67:8000/play/a0qd/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 105
-http://190.83.119.67:8000/play/a0oo/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 106
-http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 107
-http://190.83.119.67:8000/play/a0tl/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 108
-http://190.83.119.67:8000/play/a0qe/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 109
-http://190.83.119.67:8000/play/a0rf/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 110
-http://190.83.119.67:8000/play/a0r2/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 111
-http://190.83.119.67:8000/play/a0t9/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 112
-http://190.83.119.67:8000/play/a0r3/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 113
-http://190.83.119.67:8000/play/a0qj/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 114
-http://190.83.119.67:8000/play/a0sh/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 115
-http://190.83.119.67:8000/play/a0pc/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 116
-http://190.83.119.67:8000/play/a0pb/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 117
-http://190.83.119.67:8000/play/a0q1/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 118
-http://190.83.119.67:8000/play/a0ru/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 119
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 120
-http://190.83.119.67:8000/play/a0r9/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 121
-http://190.83.119.67:8000/play/a0q3/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 122
-http://190.83.119.67:8000/play/a0rr/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 123
-http://190.83.119.67:8000/play/a0pg/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 124
-http://190.83.119.67:8000/play/a0td/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 125
-http://190.83.119.67:8000/play/a0qq/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 126
-http://190.83.119.67:8000/play/a0qi/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 127
-http://190.83.119.67:8000/play/a0oq/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0oy/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0pm/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0v2/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0sj/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0ui/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0uj/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0s3/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0t6/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://200.6.227.230:8000/play/a04a/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://200.6.227.230:8000/play/a04e/index.m3u8
-#EXTINF:-1,#EXTGRP:Lista 06
-http://200.6.227.230:8000/play/a04c/index.m3u8
+#EXTINF:0,AE Mundo
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01i
+#EXTINF:0,AXN
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02y
+#EXTINF:0,CNN Espanol
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00n
+#EXTINF:0,Canal Claro
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a03j
+#EXTINF:0,Canal Estrellas
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01m
+#EXTINF:0,Cartoon Network
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00f
+#EXTINF:0,Cinecanal
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a005
+#EXTINF:0,Cinemax
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02w
+#EXTINF:0,Claro Cinema
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a03r
+#EXTINF:0,Discovery Channel
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a018
+#EXTINF:0,Discovery Kids
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00m
+#EXTINF:0,Discovery Turbo
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a039
+#EXTINF:0,Disney Channel
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a017
+#EXTINF:0,Disney Jr
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a013
+#EXTINF:0,Disney XD
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a002
+#EXTINF:0,ECDF SD
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a006
+#EXTINF:0,ESPN
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01e
+#EXTINF:0,ESPN 2
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a015
+#EXTINF:0,Ecuador TV
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a026
+#EXTINF:0,Ecuavisa
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02g
+#EXTINF:0,FX
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a030
+#EXTINF:0,FXM
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00t
+#EXTINF:0,Fox Sports 1
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a021
+#EXTINF:0,Fox Sports 2
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01n
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01o
+#EXTINF:0,GOL TV
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a03b
+#EXTINF:0,GamaTV
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a027
+#EXTINF:0,HBO
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02v
+#EXTINF:0,HBO 2
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00z
+#EXTINF:0,HBO Family
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a012
+#EXTINF:0,HBO Plus
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a010
+#EXTINF:0,HBO XTREME SD
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a011
+#EXTINF:0,History Channel
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a004
+#EXTINF:0,HomeandHealth
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01w
+#EXTINF:0,MTV
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a008
+#EXTINF:0,Nat Geo
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a003
+#EXTINF:0,NatGeo Kids
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00e
+#EXTINF:0,Nick Jr
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a038
+#EXTINF:0,Nickelodeon
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a001
+#EXTINF:0,RCN Novelas
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a03i
+#EXTINF:0,RTS
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a034
+#EXTINF:0,STAR CHANNEL
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00c
+#EXTINF:0,Space
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02z
+#EXTINF:0,TBS
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a03k
+#EXTINF:0,TC Television
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02d
+#EXTINF:0,TNT
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a00g
+#EXTINF:0,TV+ HD
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a03h
+#EXTINF:0,Teleamazonas
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a02h
+#EXTINF:0,Telemundo
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01p
+#EXTINF:0,Warner
+#EXTGRP:Lista 03
+http://45.71.185.142:8500/play/a01a
+
+
+
+
+
+
 
 
